@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res"><file name="cell_shape" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/cell_shape.xml" qualifiers="" type="drawable"/><file name="grayrect" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/grayrect.xml" qualifiers="" type="drawable"/><file name="grayrect2" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/grayrect2.xml" qualifiers="" type="drawable"/><file name="ic_launcher_192version" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/ic_launcher_192version.png" qualifiers="" type="drawable"/><file name="redrect" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/redrect.xml" qualifiers="" type="drawable"/><file name="separador" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/separador.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable-ldpi/ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="drawable"/><file name="activity_calculo1" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_calculo1.xml" qualifiers="" type="layout"/><file name="activity_convert" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_convert.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="activity_manual" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_manual.xml" qualifiers="" type="layout"/><file name="activity_resultados" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_resultados.xml" qualifiers="" type="layout"/><file name="activity_tanquesvizinhos" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_tanquesvizinhos.xml" qualifiers="" type="layout"/><file name="sobre" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/sobre.xml" qualifiers="" type="layout"/><file name="calculo1" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/menu/calculo1.xml" qualifiers="" type="menu"/><file name="convert" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/menu/convert.xml" qualifiers="" type="menu"/><file name="main" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="manual" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/menu/manual.xml" qualifiers="" type="menu"/><file name="resultados" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/menu/resultados.xml" qualifiers="" type="menu"/><file name="tanques_vizinhos" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/menu/tanques_vizinhos.xml" qualifiers="" type="menu"/><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values/colors.xml" qualifiers=""><color name="fogo3">#FF6540</color><color name="fogo4">#FEDE7B</color><color name="fogo1">#611824</color><color name="fogo2">#C12F2A</color><color name="botao">#D83018</color><color name="bejeFundo">#E7C995</color><color name="fogo5">#F7FFEE</color></file><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values/strings.xml" qualifiers=""><string name="numTanqViz_prompt">Posição dos tanques vizinhos:</string><string name="resVazEsp">  </string><string name="calculo">Cálculo de material</string><string-array name="tipoInf_arrays">
+        <item>Hidrocarboneto - 3% LGE</item>
+        <item>Solvente Polar - 6% LGE</item>
+    </string-array><string name="aTanq_prompt">Altura do tanque principal (em metros):</string><string name="posTanqViz_prompt">Posição dos tanques vizinhos:</string><string name="dTanq_prompt">Diâmetro do tanque principal (em metros):</string><string name="title_activity_manual">Instruções</string><string name="resQApuh"> </string><string name="title_sobre">Sobre este aplicativo:</string><string name="credit">Sobre este aplicativo</string><string-array name="viz_arrays">
+        <item> 0</item>
+        <item> 1</item>
+    </string-array><string-array name="numTanqViz_arrays">
+        <item> 1</item>
+        <item> 2</item>
+    </string-array><string name="unit_prompt">Posição dos tanques vizinhos:</string><string name="posTanq_prompt">Posição do tanque principal:</string><string name="resNumC">  </string><string name="title_activity_resultados">Resultados</string><string name="converter">Converter! </string><string-array name="dTanqViz_arrays">
+        <item> 1</item>
+        <item> 1.5</item>
+    </string-array><string name="convert_inicial">Preencha a quantidade e escolha duas unidades para fazer a conversão:</string><string name="nulo"> </string><string name="eq">Equivalem a </string><string name="aTanqViz_prompt">Altura do tanque principal (em metros):</string><string name="hello_world">Hello world!</string><string name="viz_prompt">Número de tanques vizinhos:</string><string-array name="posViz_arrays">
+        <item>Vertical</item>
+        <item>Horizontal</item>
+    </string-array><string name="resQEsp">  </string><string name="title_activity_convert">Conversão de unidades</string><string-array name="unit_arrays">
+        <item>Escolha a unidade</item>
+        <item>Litros</item>
+        <item>Centímetros cúbicos</item>
+        <item>Metros cúbicos</item>
+    </string-array><string name="nome_completo">Combate a incêndios em líquidos inflamáveis</string><string name="title_activity_tanques_vizinhos">Tanques Vizinhos</string><string name="convert">Conversão de unidades</string><string name="action_settings">Configurações</string><string name="manual">Instruções</string><string name="app_name">Sistemas de resfriamento e espuma</string><string name="danger">Este é um software de apoio, que não substitui um profissional bem instruído. 
+        				  O uso deve ser responsável, e os resultados, preferencialmente, conferidos
+        				  segundo as instruções oferecidas nos cursos de formação correspondentes. </string><string-array name="posTanq_arrays">
+        <item>"Horizontal"</item>
+        <item>"Vertical"</item>
+    </string-array><string-array name="aTanq_arrays">
+          <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 6</item>
+        <item> 8</item>
+        <item> 9</item>
+        <item> 10</item>
+        <item> 12</item>
+        <item> 15</item>
+        <item> 16</item>
+        <item> 18</item>
+        </string-array><string name="content">content</string><string name="homeCalc">Tela inicial</string><string name="toCalc2">Calcular quantidades</string><string name="dTanqViz_prompt">Diâmetro do tanque principal (em metros):</string><string name="manualTextView"> <h3>Instruções </h3> </string><string name="tipoInf_prompt">Tipo de inflamável:</string><string-array name="dTanq_arrays">
+        <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 6</item>
+        <item> 8</item>
+        <item> 10</item>
+        <item> 12</item>
+        <item> 15</item>
+        <item> 18</item>
+        <item> 20</item>
+        <item> 25</item>
+        <item> 30</item>
+        <item> 40</item>
+        </string-array><string name="resVazResf">  </string><string-array name="aTanqViz_arrays">
+        <item> 1</item>
+        <item> 1.5</item>
+    </string-array><string name="title_activity_calculo1">Informações sobre os tanques</string></file><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="rect4" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/rect4.xml" qualifiers="" type="drawable"/><file name="rect5" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/rect5.xml" qualifiers="" type="drawable"/><file name="rect2" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/rect2.xml" qualifiers="" type="drawable"/><file name="rect1" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/rect1.xml" qualifiers="" type="drawable"/><file name="rect3" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/rect3.xml" qualifiers="" type="drawable"/><file name="separador2" path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/drawable/separador2.xml" qualifiers="" type="drawable"/></source><source path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/build/generated/res/rs/debug"/><source path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/debug/res"/></dataSet><mergedItems/></merger>

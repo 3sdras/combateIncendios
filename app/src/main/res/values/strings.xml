@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sistemas de resfriamento e espuma</string>
+    <string name="action_settings">Configurações</string>
+    <string name="nome_completo">Combate a incêndios em líquidos inflamáveis</string>
+    <string name="calculo">Cálculo de material</string>
+    <string name="manual">Instruções</string>
+    <string name="convert">Conversão de unidades</string>
+    <string name="credit">Sobre este aplicativo</string>
+    <string name="title_activity_calculo1">Informações sobre os tanques</string>
+    <string name="tipoInf_prompt">Tipo de inflamável:</string>
+
+    <string-array name="tipoInf_arrays">
+        <item>Hidrocarboneto - 3% LGE</item>
+        <item>Solvente Polar - 6% LGE</item>
+    </string-array>
+
+    <string name="posTanq_prompt">Posição do tanque principal:</string>
+
+    <string-array name="posTanq_arrays">
+        <item>"Horizontal"</item>
+        <item>"Vertical"</item>
+    </string-array>
+
+    <string name="dTanq_prompt">Diâmetro do tanque principal (em metros):</string>
+
+    <string-array name="dTanq_arrays">
+        <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 6</item>
+        <item> 8</item>
+        <item> 10</item>
+        <item> 12</item>
+        <item> 15</item>
+        <item> 18</item>
+        <item> 20</item>
+        <item> 25</item>
+        <item> 30</item>
+        <item> 40</item>
+        </string-array>
+
+    <string name="aTanq_prompt">Altura do tanque principal (em metros):</string>
+
+    <string-array name="aTanq_arrays">
+          <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 6</item>
+        <item> 8</item>
+        <item> 9</item>
+        <item> 10</item>
+        <item> 12</item>
+        <item> 15</item>
+        <item> 16</item>
+        <item> 18</item>
+        </string-array>
+
+    <string name="viz_prompt">Número de tanques vizinhos:</string>
+
+    <string-array name="viz_arrays">
+        <item> 0</item>
+        <item> 1</item>
+    </string-array>
+
+    <string name="homeCalc">Tela inicial</string>
+    <string name="toCalc2">Calcular quantidades</string>
+    <string name="title_activity_manual">Instruções</string>
+    <string name="title_activity_resultados">Resultados</string>
+    <string name="title_activity_tanques_vizinhos">Tanques Vizinhos</string>
+    <string name="posTanqViz_prompt">Posição dos tanques vizinhos:</string>
+    <string name="title_sobre">Sobre este aplicativo:</string>
+
+    <string-array name="posViz_arrays">
+        <item>Vertical</item>
+        <item>Horizontal</item>
+    </string-array>
+
+    <string name="numTanqViz_prompt">Posição dos tanques vizinhos:</string>
+
+    <string-array name="numTanqViz_arrays">
+        <item> 1</item>
+        <item> 2</item>
+    </string-array>
+
+    <string name="dTanqViz_prompt">Diâmetro do tanque principal (em metros):</string>
+
+    <string-array name="dTanqViz_arrays">
+        <item> 1</item>
+        <item> 1.5</item>
+    </string-array>
+
+    <string name="aTanqViz_prompt">Altura do tanque principal (em metros):</string>
+
+    <string-array name="aTanqViz_arrays">
+        <item> 1</item>
+        <item> 1.5</item>
+    </string-array>
+
+    <string name="resNumC">  </string>
+    <string name="resVazResf">  </string>
+    <string name="resVazEsp">  </string>
+    <string name="resQApuh"> </string>
+    <string name="resQEsp">  </string>
+    
+    <string name="content">content</string>
+    
+    
+    <string name="manualTextView"> <h3>Instruções </h3> </string>
+       
+    <string name="convert_inicial">Preencha a quantidade e escolha duas unidades para fazer a conversão:</string>
+    
+    <string name="eq">Equivalem a </string>
+    
+    <string name="nulo"> </string>
+    
+     <string name="converter">Converter! </string>
+    
+    <string name="unit_prompt">Posição dos tanques vizinhos:</string>
+
+    <string-array name="unit_arrays">
+        <item>Escolha a unidade</item>
+        <item>Litros</item>
+        <item>Centímetros cúbicos</item>
+        <item>Metros cúbicos</item>
+    </string-array>
+    
+    <string name="danger">Este é um software de apoio, que não substitui um profissional bem instruído. 
+        				  O uso deve ser responsável, e os resultados, preferencialmente, conferidos
+        				  segundo as instruções oferecidas nos cursos de formação correspondentes. </string>
+    
+    <!--
+    
+    
+    <string name="manual">Manual</string>
+    <string name="manual">Manual</string>
+    <string name="manual">Manual</string>
+    <string name="manual">Manual</string>
+    <string name="manual">Manual</string>
+    -->
+
+    <string name="title_activity_convert">Conversão de unidades</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

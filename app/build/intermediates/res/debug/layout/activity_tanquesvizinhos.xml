@@ -1,0 +1,109 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".TanquesVizinhos" >
+
+    <TextView
+        android:id="@+id/textPosViz"        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="48dp"
+        android:text="@string/posTanqViz_prompt"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Spinner
+        android:id="@+id/spinnerV2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinnerV2"
+        android:layout_below="@+id/textPosViz"
+        android:prompt="@string/posTanqViz_prompt"
+        android:entries="@array/posViz_arrays"/>
+
+    <TextView
+        android:id="@+id/textViewV3"
+        android:layout_marginTop="55dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textPosViz"
+        android:layout_below="@+id/spinnerV2"
+        android:text="@string/numTanqViz_prompt"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Spinner
+        android:id="@+id/spinnerV3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinnerV2"
+        android:layout_below="@+id/textViewV3"
+        android:prompt="@string/numTanqViz_prompt"
+        android:entries="@array/numTanqViz_arrays"/>
+
+    <TextView
+        android:id="@+id/textViewV4"
+        android:layout_marginTop="55dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewV3"
+        android:layout_below="@+id/spinnerV3"
+        android:text="@string/dTanqViz_prompt"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Spinner
+        android:id="@+id/spinnerV4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinnerV3"
+        android:layout_below="@+id/textViewV4"
+        android:entries="@array/dTanqViz_arrays"
+        android:prompt="@string/dTanqViz_prompt" />
+
+    <TextView
+        android:id="@+id/textViewV5"
+        android:layout_marginTop="55dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewV4"
+        android:layout_below="@+id/spinnerV4"
+        android:text="@string/aTanqViz_prompt"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <Spinner
+        android:id="@+id/spinnerV5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/spinnerV3"
+        android:layout_below="@+id/textViewV5"
+        android:entries="@array/aTanqViz_arrays"
+        android:prompt="@string/aTanqViz_prompt" />
+
+   <Button
+        android:id="@+id/homeCalc2"
+        android:layout_below="@+id/spinnerV5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentLeft="true"
+        android:text="@string/homeCalc" />
+
+    <Button
+        android:id="@+id/botaoCalcular2" 
+        android:layout_below="@+id/spinnerV5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@+id/homeCalc2"
+        android:layout_alignRight="@+id/spinnerV4"
+        android:text="@string/toCalc2" /> 
+        <!-- Não pode colocar comentário dentro do Button... -->
+        <!-- pra diferenciar do botaoCalcular1 da activity_calculo1 -->
+
+</RelativeLayout>
+<!-- From: file:/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/src/main/res/layout/activity_tanquesvizinhos.xml -->

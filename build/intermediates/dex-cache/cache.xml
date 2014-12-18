@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/esdras/Documents/Development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/esdras/AndroidstudioProjects/LiquidosInflamaveis/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-74a1c19b570773b930c99b6e796e3ab77eda1ba6.jar" />
+    </item>
+
+</items>
