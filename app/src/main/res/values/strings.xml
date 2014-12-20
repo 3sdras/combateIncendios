@@ -3,7 +3,7 @@
 
     <string name="app_name">Sistemas de resfriamento e espuma</string>
     <string name="action_settings">Configurações</string>
-    <string name="nome_completo">Combate a incêndios em líquidos inflamáveis</string>
+    <string name="nome_completo">Combate a incêndios em tanques de líquidos inflamáveis</string>
     <string name="calculo">Cálculo de material</string>
     <string name="manual">Instruções</string>
     <string name="convert">Conversão de unidades</string>
